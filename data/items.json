@@ -1,0 +1,5 @@
+[
+  { "title": "Cooking", "quanitity": "3kg", "unitprice": "125/=" },
+  { "title": "Soda", "quanitity": "2L", "unitprice": "55/=" },
+  { "title": "Bread", "quanitity": "4", "unitprice": "65/=" }
+]
